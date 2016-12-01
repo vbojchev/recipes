@@ -1,0 +1,5 @@
+get piperki
+run pecenje
+run peglanje
+put sol
+push vo tegla
